@@ -22,8 +22,14 @@ The seven lessons were completed in order and notes were taken for each lesson.
 * 📃 [Lesson 6: Causal SWIGs](lessons/6-causal-swigs.md)
 * 📃 [Lesson 7: Building Your DAG](lessons/7-building-your-dag.md)
 
-In addition to the seven lessons some cases were worked to help reinforce key
-learnings 
+In addition to the seven lessons, five cases were worked to help reinforce key
+learnings. 
+
+* [Case 1: The Birth Weight Paradox]()
+* [Case 2: Measurement Bias in Membory Loss]()
+* [Case 3: Confounding in Mediation Analysis]()
+* [Case 4: Genes as Instrumental Variables]()
+* [Case 5: The Obesity Paradox]()
 
 ## About The Course
 
