@@ -5,10 +5,10 @@
 Learn simple graphical rules that allow you to use intuitive pictures to
 improve study design and data analysis for causal inference.
 
-> This repository has all of the notes and materials I created or used as
-> references while completing the edX HarvardX course
-> [Pricing Strategy Optimization](https://www.coursera.org/specializations/uva-darden-bcg-pricing-strategy)
-> by Miguel Hernan 
+**This repository has all of the notes and materials I created or used as
+references while completing the edX HarvardX course**
+[**Pricing Strategy Optimization**](https://www.coursera.org/specializations/uva-darden-bcg-pricing-strategy)
+**by Miguel Hernan**
 
 🥇 [Certificate of Completion](https://courses.edx.org/certificates/2e9e687ffeb043bb9b726e633581a9d4?_gl=1*6tbd5q*_ga*MTI1NTAxNzMwMS4xNjgzMzg3NzYw*_ga_D3KS4KMDT0*MTY4ODIzNjk3MC43NS4xLjE2ODgyNDAzMTkuNDkuMC4w)
 
