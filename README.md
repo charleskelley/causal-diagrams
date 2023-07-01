@@ -18,7 +18,7 @@ The seven lessons were completed in order and notes were taken for each lesson.
 * 📃 [Lesson 2: Confounding](lessons/2-confounding.md)
 * 📃 [Lesson 3: Selection Bias](lessons/3-selection-bias.md)
 * 📃 [Lesson 4: Measurement Bias / Putting it all together](lessons/4-measurement-bias.md)
-* 📃 [Lesson 5: Time-varying Treatments](lessons/5-time-varying treatment.md)
+* 📃 [Lesson 5: Time-varying Treatments](lessons/5-time-varying-treatment.md)
 * 📃 [Lesson 6: Causal SWIGs](lessons/6-causal-swigs.md)
 * 📃 [Lesson 7: Building Your DAG](lessons/7-building-your-dag.md)
 
