@@ -14,13 +14,13 @@ improve study design and data analysis for causal inference.
 
 The seven lessons were completed in order and notes were taken for each lesson.
 
-📃 [Lesson 1: Causal DAGs ](lessons/1-causal-dags)
-📃 [Lesson 2: ](lessons/2-confounding)
-📃 [Lesson 3: ](lessons/3-selection-bias)
-📃 [Lesson 4: ](lessons/4-measurement-bias)
-📃 [Lesson 5: ](lessons/5-time-varying treatment)
-📃 [Lesson 6: ](lessons/6-causal-swigs)
-📃 [Lesson 7: ](lessons/7-building-your-dag)
+* 📃 [Lesson 1: Causal DAGs ](lessons/1-causal-dags.md)
+* 📃 [Lesson 2: Confounding](lessons/2-confounding.md)
+* 📃 [Lesson 3: Selection Bias](lessons/3-selection-bias.md)
+* 📃 [Lesson 4: Measurement Bias / Putting it all together](lessons/4-measurement-bias.md)
+* 📃 [Lesson 5: Time-varying Treatments](lessons/5-time-varying treatment.md)
+* 📃 [Lesson 6: Causal SWIGs](lessons/6-causal-swigs.md)
+* 📃 [Lesson 7: Building Your DAG](lessons/7-building-your-dag.md)
 
 In addition to the seven lessons some cases were worked to help reinforce key
 learnings 
