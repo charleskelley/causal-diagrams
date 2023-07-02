@@ -32,11 +32,11 @@ Jamie Robbins.
 
 #### Case Studies 
 
-* 🕵🏻‍♂️ [Case 1: The Birth Weight Paradox](cases/1-birth-weight-paradox.md)
-* 🕵🏻‍♂️ [Case 2: Measurement Bias in Membory Loss](cases/2-measurement-bias-in-memory-loss.md)
-* 🕵🏻‍♂️ [Case 3: Confounding in Mediation Analysis](cases/3-confounding-in-mediation-analysis.md)
-* 🕵🏻‍♂️ [Case 4: Genes as Instrumental Variables](cases/4-genes-as-instrumental-variables.md)
-* 🕵🏻‍♂️ [Case 5: The Obesity Paradox](cases/5-obesity-paradox.md)
+* 🔍 [Case 1: The Birth Weight Paradox](cases/1-birth-weight-paradox.md)
+* 🔍 [Case 2: Measurement Bias in Membory Loss](cases/2-measurement-bias-in-memory-loss.md)
+* 🔍 [Case 3: Confounding in Mediation Analysis](cases/3-confounding-in-mediation-analysis.md)
+* 🔍 [Case 4: Genes as Instrumental Variables](cases/4-genes-as-instrumental-variables.md)
+* 🔍 [Case 5: The Obesity Paradox](cases/5-obesity-paradox.md)
 
 ## About The Course
 
