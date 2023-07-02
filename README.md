@@ -2,17 +2,19 @@
 
 ## Draw Your Assumptions</br>Before Your Conclusions 
 
+[![](image-causal-diagrams-course.jpg)](https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your)
+
 Learn simple graphical rules that allow you to use intuitive pictures to
 improve study design and data analysis for causal inference.
 
 **This repository has all of the notes and materials I created or used as
-references while completing the edX HarvardX course**
-[**Pricing Strategy Optimization**](https://www.coursera.org/specializations/uva-darden-bcg-pricing-strategy)
+references while completing the edX HarvardX course on**
+[**Causal Diagrams**](https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your)
 **by Miguel Hernan**
 
 🥇 [Certificate of Completion](https://courses.edx.org/certificates/2e9e687ffeb043bb9b726e633581a9d4?_gl=1*6tbd5q*_ga*MTI1NTAxNzMwMS4xNjgzMzg3NzYw*_ga_D3KS4KMDT0*MTY4ODIzNjk3MC43NS4xLjE2ODgyNDAzMTkuNDkuMC4w)
 
-The seven lessons were completed in order and notes were taken for each lesson.
+#### Core Lessons
 
 * 📃 [Lesson 1: Causal DAGs ](lessons/1-causal-dags.md)
 * 📃 [Lesson 2: Confounding](lessons/2-confounding.md)
@@ -22,14 +24,19 @@ The seven lessons were completed in order and notes were taken for each lesson.
 * 📃 [Lesson 6: Causal SWIGs](lessons/6-causal-swigs.md)
 * 📃 [Lesson 7: Building Your DAG](lessons/7-building-your-dag.md)
 
-In addition to the seven lessons, five cases were worked to help reinforce key
-learnings. 
+#### Bonus Material
 
-* [Case 1: The Birth Weight Paradox]()
-* [Case 2: Measurement Bias in Membory Loss]()
-* [Case 3: Confounding in Mediation Analysis]()
-* [Case 4: Genes as Instrumental Variables]()
-* [Case 5: The Obesity Paradox]()
+Interviews and background on the [key researchers](lessons/8-causal-diagram-development.md)
+that led the way in the development of causal diagrams—namely Judea Pearl, and
+Jamie Robbins.
+
+#### Case Studies 
+
+* 🕵🏻‍♂️ [Case 1: The Birth Weight Paradox](cases/1-birth-weight-paradox.md)
+* 🕵🏻‍♂️ [Case 2: Measurement Bias in Membory Loss](cases/2-measurement-bias-in-memory-loss.md)
+* 🕵🏻‍♂️ [Case 3: Confounding in Mediation Analysis](cases/3-confounding-in-mediation-analysis.md)
+* 🕵🏻‍♂️ [Case 4: Genes as Instrumental Variables](cases/4-genes-as-instrumental-variables.md)
+* 🕵🏻‍♂️ [Case 5: The Obesity Paradox](cases/5-obesity-paradox.md)
 
 ## About The Course
 
